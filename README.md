@@ -6,7 +6,6 @@ Diet Catering Website with customer &amp; admin panel, e-commerce shopping syste
 <br>
 <br>
 <br>
-![Untitled Diagram (10)](https://user-images.githubusercontent.com/62395299/118178320-bcdb1580-b42b-11eb-9472-e08006623c00.png)
 ![Untitled Diagram](https://user-images.githubusercontent.com/62395299/118178343-c3698d00-b42b-11eb-8041-518431be511d.png)
 <br>
 ![Untitled Diagram (7)](https://user-images.githubusercontent.com/62395299/118178354-c5cbe700-b42b-11eb-909c-7b3ec6e5d38d.png) <br>
